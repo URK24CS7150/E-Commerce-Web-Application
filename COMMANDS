@@ -1,1 +1,12 @@
+Commands to get "src, node_modules, public" :
 
+
+npx create-react-app ecommerce
+cd ecommerce
+npm start
+
+
+cd C:\Users\glaks\ecommerce\ecommerce
+npm install
+npm install axios react-router-dom
+npm start
